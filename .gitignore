@@ -49,8 +49,7 @@ moc_*
 ###################
 *.dat 
 *.avi
-*.png
-
+*
 # C++ objects and libs
 
 *.slo
